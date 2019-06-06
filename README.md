@@ -25,7 +25,9 @@ Here we use data of the Jigsaw Unintended Bias in Toxicity Classification challe
 
 - Download data from https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data. The data of this project  will be organized as: 
 ├── input
+
 |  └── train.cvs
+
 |  └── test.cvs 
 
 
