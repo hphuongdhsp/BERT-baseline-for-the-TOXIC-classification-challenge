@@ -24,6 +24,8 @@ Here we use data of the Jigsaw Unintended Bias in Toxicity Classification challe
 - We first down load pretrained bert model( for instance: //www.kaggle.com/maxjeblick/bert-pretrained-models)
 
 - Download data from https://www.kaggle.com/c/jigsaw-unintended-bias-in-toxicity-classification/data. The data of this project  will be organized as: 
+
+
 ├── input
 
 |  └── train.cvs
@@ -33,7 +35,7 @@ Here we use data of the Jigsaw Unintended Bias in Toxicity Classification challe
 
 - Run convert_tf_checkpoint_to_pytorch.py to convert the tensofflow weight into the Pytorch weight. 
 
-- Run bert_traing.py to start to trainning
+- Run bert_traing.py to start trainning
 
 - To interface, we use bert_interface.py
 
